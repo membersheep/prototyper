@@ -9,11 +9,11 @@ Benefits:
 - Encourages you to structure you app in isolated modules.
 - Enables a faster prototyping cycle.
 
-## Prerequisites:
+## Prerequisites
 - Your project should be in a workspace.
 - Your controllers must be as isolated as possible (hint: mock their dependencies). Keep the number of files in the _Prototyper_ target as low as possible to keep the framework build time low.
 
-## Installation:
+## Installation
 1. Copy the Prototyper Playground into your workspace.
 
 2. Select your project and create a new framework (`File > New > Target...`) and call it _Prototyper_. This will create a _Prototyper_ group in your project.
@@ -53,3 +53,4 @@ end
 - Find a way to automatically restart the playground whenever the Prototyper framework is regenerated.
 - Find a simpler way to install and distribute Prototyper.
 - Create an example project.
+- Add readme images.
